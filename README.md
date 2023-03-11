@@ -1,2 +1,2 @@
 # ccsBayan
-start
+https://razumaumikita.github.io/ccsBayan/
